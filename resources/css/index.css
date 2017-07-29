@@ -1,4 +1,3 @@
-<style>
 
 .banner {
   font-size: 100px;
@@ -53,4 +52,6 @@ p, h1, h2, h3, title {
 p {
   font-size: 15px;
 }
-</style>
+* {
+  border: 1px solid red;
+}
